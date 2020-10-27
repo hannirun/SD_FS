@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.2)  22 OCT 2020 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.2)  27 OCT 2020 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -262,11 +262,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--34
 \openout3 = `coding_diary.toc'.
 
 
-[2] [3] (./coding_diary.aux) ) 
+[2]
+Overfull \hbox (19.71648pt too wide) in paragraph at lines 51--60
+\OML/cmm/m/it/10 curl \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 sLhttps \OT1/cmr/m/
+n/10 : \OML/cmm/m/it/10 ==raw:githubusercontent:com=creationix=nvm=v\OT1/cmr/m/
+n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 31\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0$ 
+$\OML/cmm/m/it/10 install:sh \OMS/cmsy/m/n/10 ^^@
+ []
+
+[3] [4] (./coding_diary.aux) ) 
 Here is how much of TeX's memory you used:
  2579 strings out of 483140
  35888 string characters out of 5965152
- 270689 words of memory out of 5000000
+ 273689 words of memory out of 5000000
  17592 multiletter control sequences out of 15000+600000
  533705 words of font info for 29 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -274,12 +282,15 @@ Here is how much of TeX's memory you used:
 </usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on coding_diary.pdf (3 pages, 67814 bytes).
+/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on coding_diary.pdf (4 pages, 99223 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
